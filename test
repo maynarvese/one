@@ -1,4 +1,4 @@
-name = input("Hello! What's your name? ")
+name1 = input("Hello! What's your name? ")
 print(f"Hello {name}!")
 
 # Calculating the sum of two numbers
